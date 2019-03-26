@@ -1,1 +1,1 @@
-Zip Atrchive for EC-Artofacts Atricat
+Zip Atrchive for EC-Artifacts sources
